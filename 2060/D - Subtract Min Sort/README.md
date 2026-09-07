@@ -1,0 +1,22 @@
+<h2><a href="https://codeforces.com/contest/2060/problem/D" target="_blank" rel="noopener noreferrer">2060D — Subtract Min Sort</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1100 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 2060D](https://codeforces.com/contest/2060/problem/D) |
+
+## Topics
+`greedy`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">D. Subtract Min Sort</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given a sequence $$$a$$$ consisting of $$$n$$$ positive integers.</p><p>You can perform the following operation any number of times.</p><ul> <li> Select an index $$$i$$$ ($$$1 \le i  \lt  n$$$), and subtract $$$\min(a_i,a_{i+1})$$$ from both $$$a_i$$$ and $$$a_{i+1}$$$. </li></ul><p>Determine if it is possible to make the sequence <span class="tex-font-style-bf">non-decreasing</span> by using the operation any number of times.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains the number of test cases $$$t$$$ ($$$1 \le t \le 10^4$$$). The description of the test cases follows.</p><p>The first line of each test case contains a single integer $$$n$$$ ($$$2 \le n \le 2 \cdot 10^5$$$).</p><p>The second line of each test case contains $$$a_1,a_2,\ldots,a_n$$$ ($$$1 \le a_i \le 10^9$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>If it is possible to make the sequence <span class="tex-font-style-bf">non-decreasing</span>, print "<span class="tex-font-style-tt">YES</span>" on a new line. Otherwise, print "<span class="tex-font-style-tt">NO</span>" on a new line.</p><p>You can output the answer in any case. For example, the strings "<span class="tex-font-style-tt">yEs</span>", "<span class="tex-font-style-tt">yes</span>", and "<span class="tex-font-style-tt">Yes</span>" will also be recognized as positive responses.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008571387762514119" id="id0003306001333858055" class="input-output-copier">Copy</div></div><pre id="id008571387762514119"><div class="test-example-line test-example-line-even test-example-line-0">5</div><div class="test-example-line test-example-line-odd test-example-line-1">5</div><div class="test-example-line test-example-line-odd test-example-line-1">1 2 3 4 5</div><div class="test-example-line test-example-line-even test-example-line-2">4</div><div class="test-example-line test-example-line-even test-example-line-2">4 3 2 1</div><div class="test-example-line test-example-line-odd test-example-line-3">4</div><div class="test-example-line test-example-line-odd test-example-line-3">4 5 2 3</div><div class="test-example-line test-example-line-even test-example-line-4">8</div><div class="test-example-line test-example-line-even test-example-line-4">4 5 4 5 4 5 4 5</div><div class="test-example-line test-example-line-odd test-example-line-5">9</div><div class="test-example-line test-example-line-odd test-example-line-5">9 9 8 2 4 4 3 5 3</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0037089169500489294" id="id008453496981570147" class="input-output-copier">Copy</div></div><pre id="id0037089169500489294">YES
+NO
+YES
+YES
+NO
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, the array is already sorted.</p><p>In the second test case, we can show that it is impossible.</p><p>In the third test case, after performing an operation on $$$i=1$$$, the array becomes $$$[0,1,2,3]$$$, which is now in nondecreasing order.</p></div>
