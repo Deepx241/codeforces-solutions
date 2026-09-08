@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 96 | 20 |
+| 97 | 20 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (16)
-- [constructive algorithms](#constructive-algorithms) (11)
+- [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
@@ -26,7 +26,7 @@
 - [greedy](#greedy) (30)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (51)
-- [math](#math) (27)
+- [math](#math) (28)
 - [number theory](#number-theory) (8)
 - [sortings](#sortings) (12)
 - [strings](#strings) (15)
@@ -86,6 +86,7 @@
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 2041E | [Beautiful Array](https://codeforces.com/contest/2041/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2041/E%20-%20Beautiful%20Array/solution.cpp) |
 | 2137B | [Fun Permutation](https://codeforces.com/contest/2137/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2137/B%20-%20Fun%20Permutation/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
@@ -252,6 +253,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
 | 2021B | [Maximize Mex](https://codeforces.com/contest/2021/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2021/B%20-%20Maximize%20Mex/solution.cpp) |
+| 2041E | [Beautiful Array](https://codeforces.com/contest/2041/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2041/E%20-%20Beautiful%20Array/solution.cpp) |
 | 2137B | [Fun Permutation](https://codeforces.com/contest/2137/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2137/B%20-%20Fun%20Permutation/solution.cpp) |
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
