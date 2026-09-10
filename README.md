@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 102 | 21 |
+| 103 | 21 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (1)
-- [binary search](#binary-search) (3)
+- [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (16)
 - [constructive algorithms](#constructive-algorithms) (13)
@@ -24,15 +24,15 @@
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (34)
+- [greedy](#greedy) (35)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (52)
 - [math](#math) (29)
 - [number theory](#number-theory) (8)
-- [sortings](#sortings) (12)
+- [sortings](#sortings) (13)
 - [strings](#strings) (15)
 - [ternary search](#ternary-search) (1)
-- [two pointers](#two-pointers) (11)
+- [two pointers](#two-pointers) (12)
 
 ---
 
@@ -52,6 +52,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1928B | [Equalize](https://codeforces.com/contest/1928/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1928/B%20-%20Equalize/solution.cpp) |
 | 1982C | [Boring Day](https://codeforces.com/contest/1982/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1982/C%20-%20Boring%20Day/solution.cpp) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.cpp) |
@@ -162,6 +163,7 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1928B | [Equalize](https://codeforces.com/contest/1928/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1928/B%20-%20Equalize/solution.cpp) |
 | 1982C | [Boring Day](https://codeforces.com/contest/1982/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1982/C%20-%20Boring%20Day/solution.cpp) |
 | 1987C | [Basil's Garden](https://codeforces.com/contest/1987/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1987/C%20-%20Basil's%20Garden/solution.cpp) |
 | 2021B | [Maximize Mex](https://codeforces.com/contest/2021/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2021/B%20-%20Maximize%20Mex/solution.cpp) |
@@ -302,6 +304,7 @@
 | 1851B | [Parity Sort](https://codeforces.com/contest/1851/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1851/B%20-%20Parity%20Sort/solution.cpp) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1928B | [Equalize](https://codeforces.com/contest/1928/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1928/B%20-%20Equalize/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
@@ -344,6 +347,7 @@
 | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1843/B%20-%20Long%20Long/solution.cpp) |
 | 1851B | [Parity Sort](https://codeforces.com/contest/1851/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1851/B%20-%20Parity%20Sort/solution.cpp) |
 | 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1873/D%20-%201D%20Eraser/solution.cpp) |
+| 1928B | [Equalize](https://codeforces.com/contest/1928/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1928/B%20-%20Equalize/solution.cpp) |
 | 1982C | [Boring Day](https://codeforces.com/contest/1982/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1982/C%20-%20Boring%20Day/solution.cpp) |
 | 2000B | [Seating in a Bus](https://codeforces.com/contest/2000/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2000/B%20-%20Seating%20in%20a%20Bus/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
