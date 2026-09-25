@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 118 | 24 |
+| 119 | 24 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (7)
+- [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (17)
@@ -56,6 +56,7 @@
 | 2263F | [PLUSworld](https://codeforces.com/contest/2263/problem/F) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2263/F%20-%20PLUSworld/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+| 2267C | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2267/C%20-%20GCD%20Treasury/solution.cpp) |
 
 ### binary search
 
