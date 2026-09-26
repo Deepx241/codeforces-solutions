@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 119 | 24 |
+| 120 | 24 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [fft](#fft) (1)
 - [games](#games) (2)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (40)
+- [greedy](#greedy) (41)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (54)
 - [math](#math) (32)
@@ -34,7 +34,7 @@
 - [sortings](#sortings) (14)
 - [strings](#strings) (16)
 - [ternary search](#ternary-search) (1)
-- [trees](#trees) (1)
+- [trees](#trees) (2)
 - [two pointers](#two-pointers) (13)
 
 ---
@@ -194,6 +194,7 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1905B | [Begginer's Zelda](https://codeforces.com/contest/1905/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1905/B%20-%20Begginer's%20Zelda/solution.cpp) |
 | 1928B | [Equalize](https://codeforces.com/contest/1928/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1928/B%20-%20Equalize/solution.cpp) |
 | 1982C | [Boring Day](https://codeforces.com/contest/1982/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1982/C%20-%20Boring%20Day/solution.cpp) |
 | 1987C | [Basil's Garden](https://codeforces.com/contest/1987/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1987/C%20-%20Basil's%20Garden/solution.cpp) |
@@ -383,6 +384,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1905B | [Begginer's Zelda](https://codeforces.com/contest/1905/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1905/B%20-%20Begginer's%20Zelda/solution.cpp) |
 | 2253E | [Diameter Intersections](https://codeforces.com/contest/2253/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2253/E%20-%20Diameter%20Intersections/solution.cpp) |
 
 ### two pointers
