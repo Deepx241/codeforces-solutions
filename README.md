@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 128 | 25 |
+| 129 | 25 |
 
 ---
 
@@ -27,13 +27,13 @@
 - [fft](#fft) (1)
 - [games](#games) (3)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (44)
+- [greedy](#greedy) (45)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (55)
 - [math](#math) (34)
 - [number theory](#number-theory) (11)
 - [sortings](#sortings) (16)
-- [strings](#strings) (17)
+- [strings](#strings) (18)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (3)
 - [two pointers](#two-pointers) (14)
@@ -234,6 +234,7 @@
 | 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.cpp) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
+| 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 
 ### hashing
 
@@ -398,6 +399,7 @@
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2174A | [Needle in a Haystack](https://codeforces.com/contest/2174/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2174/A%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
+| 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 
 ### ternary search
 
