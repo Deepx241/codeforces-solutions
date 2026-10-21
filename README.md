@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 135 | 25 |
+| 137 | 26 |
 
 ---
 
@@ -14,20 +14,21 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (11)
-- [binary search](#binary-search) (5)
-- [bitmasks](#bitmasks) (3)
+- [binary search](#binary-search) (6)
+- [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (18)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (18)
-- [data structures](#data-structures) (3)
-- [dfs and similar](#dfs-and-similar) (4)
+- [constructive algorithms](#constructive-algorithms) (19)
+- [data structures](#data-structures) (5)
+- [dfs and similar](#dfs-and-similar) (5)
+- [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (4)
-- [dsu](#dsu) (2)
+- [dsu](#dsu) (4)
 - [expression parsing](#expression-parsing) (1)
 - [fft](#fft) (1)
 - [games](#games) (3)
-- [graphs](#graphs) (3)
-- [greedy](#greedy) (45)
+- [graphs](#graphs) (4)
+- [greedy](#greedy) (47)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (55)
 - [math](#math) (36)
@@ -35,8 +36,8 @@
 - [sortings](#sortings) (17)
 - [strings](#strings) (18)
 - [ternary search](#ternary-search) (1)
-- [trees](#trees) (5)
-- [two pointers](#two-pointers) (14)
+- [trees](#trees) (7)
+- [two pointers](#two-pointers) (15)
 
 ---
 
@@ -71,6 +72,7 @@
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
 | 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2117/D%20-%20Retaliation/solution.cpp) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.cpp) |
+| 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 
 ### bitmasks
 
@@ -79,6 +81,7 @@
 | 2162C | [Beautiful XOR](https://codeforces.com/contest/2162/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2162/C%20-%20Beautiful%20XOR/solution.cpp) |
 | 2171C1 | [Renako Amaori and XOR Game (easy version)](https://codeforces.com/contest/2171/problem/C1) | 1100 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2171/C1%20-%20Renako%20Amaori%20and%20XOR%20Game%20(easy%20version)/solution.cpp) |
 | 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.cpp) |
+| 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 
 ### brute force
 
@@ -120,6 +123,7 @@
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 2029D | [Cool Graph](https://codeforces.com/contest/2029/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2029/D%20-%20Cool%20Graph/solution.cpp) |
 | 2041E | [Beautiful Array](https://codeforces.com/contest/2041/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2041/E%20-%20Beautiful%20Array/solution.cpp) |
 | 2137B | [Fun Permutation](https://codeforces.com/contest/2137/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2137/B%20-%20Fun%20Permutation/solution.cpp) |
 | 2155B | [Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2155/B%20-%20Abraham's%20Great%20Escape/solution.cpp) |
@@ -138,17 +142,26 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1982C | [Boring Day](https://codeforces.com/contest/1982/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1982/C%20-%20Boring%20Day/solution.cpp) |
+| 2029D | [Cool Graph](https://codeforces.com/contest/2029/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2029/D%20-%20Cool%20Graph/solution.cpp) |
 | 2152C | [Triple Removal](https://codeforces.com/contest/2152/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2152/C%20-%20Triple%20Removal/solution.cpp) |
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
+| 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 
 ### dfs and similar
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1900C | [Anji's Binary Tree](https://codeforces.com/contest/1900/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1900/C%20-%20Anji's%20Binary%20Tree/solution.cpp) |
+| 2029D | [Cool Graph](https://codeforces.com/contest/2029/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2029/D%20-%20Cool%20Graph/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2253E | [Diameter Intersections](https://codeforces.com/contest/2253/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2253/E%20-%20Diameter%20Intersections/solution.cpp) |
 | 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.cpp) |
+
+### divide and conquer
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 
 ### dp
 
@@ -163,8 +176,10 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2029D | [Cool Graph](https://codeforces.com/contest/2029/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2029/D%20-%20Cool%20Graph/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.cpp) |
+| 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 
 ### expression parsing
 
@@ -190,6 +205,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2029D | [Cool Graph](https://codeforces.com/contest/2029/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2029/D%20-%20Cool%20Graph/solution.cpp) |
 | 2155B | [Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2155/B%20-%20Abraham's%20Great%20Escape/solution.cpp) |
 | 2253E | [Diameter Intersections](https://codeforces.com/contest/2253/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2253/E%20-%20Diameter%20Intersections/solution.cpp) |
 | 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.cpp) |
@@ -222,6 +238,7 @@
 | 1982C | [Boring Day](https://codeforces.com/contest/1982/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1982/C%20-%20Boring%20Day/solution.cpp) |
 | 1987C | [Basil's Garden](https://codeforces.com/contest/1987/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1987/C%20-%20Basil's%20Garden/solution.cpp) |
 | 2021B | [Maximize Mex](https://codeforces.com/contest/2021/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2021/B%20-%20Maximize%20Mex/solution.cpp) |
+| 2029D | [Cool Graph](https://codeforces.com/contest/2029/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2029/D%20-%20Cool%20Graph/solution.cpp) |
 | 2060D | [Subtract Min Sort](https://codeforces.com/contest/2060/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2060/D%20-%20Subtract%20Min%20Sort/solution.cpp) |
 | 2098A | [Vadim's Collection](https://codeforces.com/contest/2098/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2098/A%20-%20Vadim's%20Collection/solution.cpp) |
 | 2152C | [Triple Removal](https://codeforces.com/contest/2152/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2152/C%20-%20Triple%20Removal/solution.cpp) |
@@ -243,6 +260,7 @@
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
+| 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 
 ### hashing
 
@@ -424,9 +442,11 @@
 |---|---------|------------|----------|
 | 1900C | [Anji's Binary Tree](https://codeforces.com/contest/1900/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1900/C%20-%20Anji's%20Binary%20Tree/solution.cpp) |
 | 1905B | [Begginer's Zelda](https://codeforces.com/contest/1905/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1905/B%20-%20Begginer's%20Zelda/solution.cpp) |
+| 2029D | [Cool Graph](https://codeforces.com/contest/2029/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2029/D%20-%20Cool%20Graph/solution.cpp) |
 | 2178F | [Conquer or of Forest](https://codeforces.com/contest/2178/problem/F) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2178/F%20-%20Conquer%20or%20of%20Forest/solution.cpp) |
 | 2253E | [Diameter Intersections](https://codeforces.com/contest/2253/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2253/E%20-%20Diameter%20Intersections/solution.cpp) |
 | 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.cpp) |
+| 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 
 ### two pointers
 
@@ -446,6 +466,7 @@
 | 2000B | [Seating in a Bus](https://codeforces.com/contest/2000/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2000/B%20-%20Seating%20in%20a%20Bus/solution.cpp) |
 | 2174A | [Needle in a Haystack](https://codeforces.com/contest/2174/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2174/A%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
+| 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 
 ---
 
