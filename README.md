@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 137 | 26 |
+| 139 | 26 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (11)
-- [binary search](#binary-search) (6)
+- [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (18)
+- [brute force](#brute-force) (19)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (19)
 - [data structures](#data-structures) (5)
@@ -28,12 +28,12 @@
 - [fft](#fft) (1)
 - [games](#games) (3)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (47)
-- [hashing](#hashing) (1)
-- [implementation](#implementation) (55)
-- [math](#math) (36)
-- [number theory](#number-theory) (11)
-- [sortings](#sortings) (17)
+- [greedy](#greedy) (48)
+- [hashing](#hashing) (2)
+- [implementation](#implementation) (56)
+- [math](#math) (38)
+- [number theory](#number-theory) (12)
+- [sortings](#sortings) (18)
 - [strings](#strings) (18)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (7)
@@ -72,6 +72,7 @@
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
 | 2117D | [Retaliation](https://codeforces.com/contest/2117/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2117/D%20-%20Retaliation/solution.cpp) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.cpp) |
+| 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
 | 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 
 ### bitmasks
@@ -104,6 +105,7 @@
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 | 2253E | [Diameter Intersections](https://codeforces.com/contest/2253/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2253/E%20-%20Diameter%20Intersections/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
+| 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### combinatorics
@@ -260,6 +262,7 @@
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
+| 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
 | 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 
 ### hashing
@@ -267,6 +270,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
+| 2275F | [Tea Blend](https://codeforces.com/contest/2275/problem/F) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2275/F%20-%20Tea%20Blend/solution.cpp) |
 
 ### implementation
 
@@ -326,6 +330,7 @@
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.cpp) |
 | 2253E | [Diameter Intersections](https://codeforces.com/contest/2253/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2253/E%20-%20Diameter%20Intersections/solution.cpp) |
+| 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### math
@@ -368,6 +373,8 @@
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
+| 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
+| 2275F | [Tea Blend](https://codeforces.com/contest/2275/problem/F) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2275/F%20-%20Tea%20Blend/solution.cpp) |
 
 ### number theory
 
@@ -384,6 +391,7 @@
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
+| 2275F | [Tea Blend](https://codeforces.com/contest/2275/problem/F) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2275/F%20-%20Tea%20Blend/solution.cpp) |
 
 ### sortings
 
@@ -406,6 +414,7 @@
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
+| 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
 
 ### strings
 
