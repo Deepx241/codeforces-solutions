@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 139 | 26 |
+| 140 | 26 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (5)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (4)
+- [dp](#dp) (5)
 - [dsu](#dsu) (4)
 - [expression parsing](#expression-parsing) (1)
 - [fft](#fft) (1)
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (48)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (56)
+- [implementation](#implementation) (57)
 - [math](#math) (38)
 - [number theory](#number-theory) (12)
 - [sortings](#sortings) (18)
@@ -173,6 +173,7 @@
 | 1900C | [Anji's Binary Tree](https://codeforces.com/contest/1900/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1900/C%20-%20Anji's%20Binary%20Tree/solution.cpp) |
 | 1982C | [Boring Day](https://codeforces.com/contest/1982/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1982/C%20-%20Boring%20Day/solution.cpp) |
 | 1987C | [Basil's Garden](https://codeforces.com/contest/1987/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1987/C%20-%20Basil's%20Garden/solution.cpp) |
+| 2275E | [Repentance Is Already on the Way](https://codeforces.com/contest/2275/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2275/E%20-%20Repentance%20Is%20Already%20on%20the%20Way/solution.cpp) |
 
 ### dsu
 
@@ -332,6 +333,7 @@
 | 2253E | [Diameter Intersections](https://codeforces.com/contest/2253/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2253/E%20-%20Diameter%20Intersections/solution.cpp) |
 | 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
+| 2275E | [Repentance Is Already on the Way](https://codeforces.com/contest/2275/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2275/E%20-%20Repentance%20Is%20Already%20on%20the%20Way/solution.cpp) |
 
 ### math
 
