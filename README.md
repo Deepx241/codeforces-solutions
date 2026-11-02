@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 140 | 26 |
+| 141 | 26 |
 
 ---
 
@@ -17,24 +17,24 @@
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (19)
-- [combinatorics](#combinatorics) (2)
+- [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (19)
-- [data structures](#data-structures) (5)
+- [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (5)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (5)
+- [dp](#dp) (6)
 - [dsu](#dsu) (4)
 - [expression parsing](#expression-parsing) (1)
 - [fft](#fft) (1)
 - [games](#games) (3)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (48)
+- [greedy](#greedy) (49)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (57)
 - [math](#math) (38)
 - [number theory](#number-theory) (12)
 - [sortings](#sortings) (18)
-- [strings](#strings) (18)
+- [strings](#strings) (19)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (7)
 - [two pointers](#two-pointers) (15)
@@ -114,6 +114,7 @@
 |---|---------|------------|----------|
 | 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.cpp) |
 | 2178F | [Conquer or of Forest](https://codeforces.com/contest/2178/problem/F) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2178/F%20-%20Conquer%20or%20of%20Forest/solution.cpp) |
+| 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 
 ### constructive algorithms
 
@@ -148,6 +149,7 @@
 | 2152C | [Triple Removal](https://codeforces.com/contest/2152/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2152/C%20-%20Triple%20Removal/solution.cpp) |
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 | 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
+| 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 
 ### dfs and similar
 
@@ -174,6 +176,7 @@
 | 1982C | [Boring Day](https://codeforces.com/contest/1982/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1982/C%20-%20Boring%20Day/solution.cpp) |
 | 1987C | [Basil's Garden](https://codeforces.com/contest/1987/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/1987/C%20-%20Basil's%20Garden/solution.cpp) |
 | 2275E | [Repentance Is Already on the Way](https://codeforces.com/contest/2275/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2275/E%20-%20Repentance%20Is%20Already%20on%20the%20Way/solution.cpp) |
+| 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 
 ### dsu
 
@@ -265,6 +268,7 @@
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 | 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
 | 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
+| 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 
 ### hashing
 
@@ -440,6 +444,7 @@
 | 2174A | [Needle in a Haystack](https://codeforces.com/contest/2174/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2174/A%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
+| 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 
 ### ternary search
 
