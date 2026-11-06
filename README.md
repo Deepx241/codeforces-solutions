@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 141 | 26 |
+| 143 | 26 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (11)
-- [binary search](#binary-search) (7)
-- [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (19)
+- [binary search](#binary-search) (8)
+- [bitmasks](#bitmasks) (5)
+- [brute force](#brute-force) (21)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (19)
 - [data structures](#data-structures) (6)
@@ -28,16 +28,16 @@
 - [fft](#fft) (1)
 - [games](#games) (3)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (49)
+- [greedy](#greedy) (50)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (57)
+- [implementation](#implementation) (59)
 - [math](#math) (38)
 - [number theory](#number-theory) (12)
-- [sortings](#sortings) (18)
+- [sortings](#sortings) (19)
 - [strings](#strings) (19)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (7)
-- [two pointers](#two-pointers) (15)
+- [two pointers](#two-pointers) (16)
 
 ---
 
@@ -74,6 +74,7 @@
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.cpp) |
 | 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
 | 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
+| 2271D | [Target Infection](https://codeforces.com/contest/2271/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2271/D%20-%20Target%20Infection/solution.cpp) |
 
 ### bitmasks
 
@@ -82,6 +83,7 @@
 | 2162C | [Beautiful XOR](https://codeforces.com/contest/2162/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2162/C%20-%20Beautiful%20XOR/solution.cpp) |
 | 2171C1 | [Renako Amaori and XOR Game (easy version)](https://codeforces.com/contest/2171/problem/C1) | 1100 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2171/C1%20-%20Renako%20Amaori%20and%20XOR%20Game%20(easy%20version)/solution.cpp) |
 | 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.cpp) |
+| 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
 | 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 
 ### brute force
@@ -106,7 +108,9 @@
 | 2253E | [Diameter Intersections](https://codeforces.com/contest/2253/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2253/E%20-%20Diameter%20Intersections/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
+| 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
+| 2271D | [Target Infection](https://codeforces.com/contest/2271/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2271/D%20-%20Target%20Infection/solution.cpp) |
 
 ### combinatorics
 
@@ -268,6 +272,7 @@
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 | 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
 | 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
+| 2271D | [Target Infection](https://codeforces.com/contest/2271/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2271/D%20-%20Target%20Infection/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 
 ### hashing
@@ -336,7 +341,9 @@
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.cpp) |
 | 2253E | [Diameter Intersections](https://codeforces.com/contest/2253/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2253/E%20-%20Diameter%20Intersections/solution.cpp) |
 | 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
+| 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
+| 2271D | [Target Infection](https://codeforces.com/contest/2271/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2271/D%20-%20Target%20Infection/solution.cpp) |
 | 2275E | [Repentance Is Already on the Way](https://codeforces.com/contest/2275/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2275/E%20-%20Repentance%20Is%20Already%20on%20the%20Way/solution.cpp) |
 
 ### math
@@ -421,6 +428,7 @@
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 | 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
+| 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
 
 ### strings
 
@@ -483,6 +491,7 @@
 | 2174A | [Needle in a Haystack](https://codeforces.com/contest/2174/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2174/A%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
+| 2271D | [Target Infection](https://codeforces.com/contest/2271/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2271/D%20-%20Target%20Infection/solution.cpp) |
 
 ---
 
