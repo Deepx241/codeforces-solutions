@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 143 | 26 |
+| 144 | 26 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (11)
 - [binary search](#binary-search) (8)
-- [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (21)
+- [bitmasks](#bitmasks) (6)
+- [brute force](#brute-force) (22)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (19)
-- [data structures](#data-structures) (6)
+- [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (5)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (6)
@@ -31,7 +31,7 @@
 - [greedy](#greedy) (50)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (59)
-- [math](#math) (38)
+- [math](#math) (39)
 - [number theory](#number-theory) (12)
 - [sortings](#sortings) (19)
 - [strings](#strings) (19)
@@ -84,6 +84,7 @@
 | 2171C1 | [Renako Amaori and XOR Game (easy version)](https://codeforces.com/contest/2171/problem/C1) | 1100 | [C++17 (GCC 7-32)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2171/C1%20-%20Renako%20Amaori%20and%20XOR%20Game%20(easy%20version)/solution.cpp) |
 | 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.cpp) |
 | 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
+| 2268B | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2268/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/B%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 | 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 
 ### brute force
@@ -109,6 +110,7 @@
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
 | 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
+| 2268B | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2268/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/B%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 | 2271D | [Target Infection](https://codeforces.com/contest/2271/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2271/D%20-%20Target%20Infection/solution.cpp) |
 
@@ -152,6 +154,7 @@
 | 2029D | [Cool Graph](https://codeforces.com/contest/2029/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2029/D%20-%20Cool%20Graph/solution.cpp) |
 | 2152C | [Triple Removal](https://codeforces.com/contest/2152/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2152/C%20-%20Triple%20Removal/solution.cpp) |
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
+| 2268B | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2268/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/B%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 | 2268C | [KiaKio and Energy Intervals](https://codeforces.com/contest/2268/problem/C) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/C%20-%20KiaKio%20and%20Energy%20Intervals/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 
@@ -387,6 +390,7 @@
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 | 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
+| 2268B | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2268/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2268/B%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 | 2275F | [Tea Blend](https://codeforces.com/contest/2275/problem/F) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Deepx241/codeforces-solutions/blob/HEAD/2275/F%20-%20Tea%20Blend/solution.cpp) |
 
 ### number theory
